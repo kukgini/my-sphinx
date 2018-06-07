@@ -4,3 +4,6 @@ git add -A
 git commit -m '...'
 git push
 popd
+git add -A
+git commit -m '...'
+git push
